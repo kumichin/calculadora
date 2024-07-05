@@ -9,5 +9,6 @@ Objetivos a mejorar:
 ** Eliminar eval(), y hacer los calculos de otra manera aplicando las funciones pertinentes.
 ** Añadir escucha de teclado para que se puedan hacer las cuuentas pulsando directamente en el teclado.
 ** Añadir más operaciones matemáticas y que pueda parecerse más a una calculadora cientifica
-** Hacerlo responsive
+** Hacerlo responsive.
+** Modo noche
 
